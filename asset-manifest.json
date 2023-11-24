@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rewapd/text-expander/static/css/main.1105fbf6.css",
+    "main.js": "/rewapd/text-expander/static/js/main.59f2b47d.js",
+    "static/js/787.79f9783a.chunk.js": "/rewapd/text-expander/static/js/787.79f9783a.chunk.js",
+    "index.html": "/rewapd/text-expander/index.html",
+    "main.1105fbf6.css.map": "/rewapd/text-expander/static/css/main.1105fbf6.css.map",
+    "main.59f2b47d.js.map": "/rewapd/text-expander/static/js/main.59f2b47d.js.map",
+    "787.79f9783a.chunk.js.map": "/rewapd/text-expander/static/js/787.79f9783a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1105fbf6.css",
+    "static/js/main.59f2b47d.js"
+  ]
+}
